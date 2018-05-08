@@ -1,0 +1,13 @@
+{
+  "name": "pansSpider",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lyreal666/pansSpider.git",
+  "author": "lyreal666 <2713151713@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "mz": "^2.7.0",
+    "superagent": "^3.8.3"
+  }
+}
