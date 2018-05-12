@@ -7,7 +7,18 @@
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
+    "koa-body-parser": "^1.1.2",
+    "koa2": "^2.0.0-alpha.7",
     "mz": "^2.7.0",
-    "superagent": "^3.8.3"
+    "node-rsa": "^0.4.2",
+    "superagent": "^3.8.3",
+    "word-table": "^1.0.3"
+  },
+  "devDependencies": {
+    "mocha": "^5.1.1",
+    "supertest": "^3.0.0"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
   }
 }
